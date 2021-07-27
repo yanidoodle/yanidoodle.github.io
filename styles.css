@@ -41,12 +41,12 @@ h1 { margin: 0; }
 h1 + hr { margin-bottom: 16px; }
 
 a, a:visited, a:focus {
-    color: blue;
+    color: #7ba8e0;
     text-decoration: none;
 }
 
 a:hover {
-    color: aqua;
+    color: #7bc4e0;
     text-decoration: underline;
 }
 
@@ -55,5 +55,5 @@ footer {
 }
 
 .summary {
-    color: gray;
+    color: #6a5acd;
 }
